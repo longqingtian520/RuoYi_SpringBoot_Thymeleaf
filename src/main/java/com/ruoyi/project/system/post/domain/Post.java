@@ -101,5 +101,6 @@ public class Post extends BaseEntity
         return "Post [postId=" + postId + ", postCode=" + postCode + ", postName=" + postName + ", postSort=" + postSort
                 + ", status=" + status + ", flag=" + flag + "]";
     }
+    
 
 }
